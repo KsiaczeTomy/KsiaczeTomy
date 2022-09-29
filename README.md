@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT & all kinds of sports
 - 🌱 I’m currently learning SysOps IT
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me via DM
+- 📫 Reach me on twitter
 
 <!---
 KsiaczeTomy/KsiaczeTomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
